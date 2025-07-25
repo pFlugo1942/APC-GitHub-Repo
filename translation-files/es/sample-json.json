@@ -16,5 +16,9 @@
   "layouts.application.preview": "Vista previa",
   "layouts.application.profile": "Perfil",
   "layouts.application.sign_in": "Iniciar sesión",
-  "layouts.application.sign_up": "Registro"
+  "layouts.application.sign_up": "Registro",
+  "Sample Text Four": "Solucionar problemas",
+  "Sample Text One": "El empleado es responsable de la atención al cliente.",
+  "Sample Text Three": "REGISTRARSE - Actualizado",
+  "Sample Text Two": "El empleado está trabajando."
 }
