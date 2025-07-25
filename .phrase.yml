@@ -7,6 +7,11 @@ phrase:
         file_format: simple_json
         locale_id: en
         update_translations: true
+    - file: ./source-locale/main/json-files/test-germanTM.json
+      params:
+        file_format: simple_json
+        locale_id: en
+        update_translations: true
   pull:
     targets:
     - file: ./translation-files/de/sample-json.json
@@ -21,7 +26,15 @@ phrase:
       params:
         locale_id: el
         file_format: simple_json
-    - file: ./source-locale/main/json-files/sample-json.json
+    - file: ./source-locale/main/json-files/translations/test-germanTM.json
       params:
-        locale_id: en
+        locale_id: de
+        file_format: simple_json
+    - file: ./source-locale/main/json-files/translations/test-germanTM.json
+      params:
+        locale_id: es
+        file_format: simple_json
+    - file: ./source-locale/main/json-files/translations/test-germanTM.json
+      params:
+        locale_id: el
         file_format: simple_json
